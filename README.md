@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # inventory_ui
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# inventory-ui-flutter
+>>>>>>> de02abb0d290c8abb8a9c97a40b7132480f7947c
